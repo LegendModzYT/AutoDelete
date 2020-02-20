@@ -14,7 +14,7 @@ const textHelp = `Commands:
   @AutoDelete set [duration: 30m] [count: 10] - starts this channel for message auto-deletion
       Duration or message count can be specified as ` + "`-`" + ` to not use that, but at least one must be specified. Use "set 0 0" to disable the bot.
   @AutoDelete help - prints this help message
-For more help, check <https://github.com/riking/AutoDelete> or join the help server: <https://discord.gg/FUGn8yE>`
+For more help, ask Legend ModzYT`
 
 const emojiBusy = `🔄`
 const emojiDone = `✅`
